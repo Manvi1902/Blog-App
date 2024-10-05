@@ -28,6 +28,15 @@ MongoDB: A NoSQL database that uses a document-oriented data model, perfect for 
 JWT: JSON Web Tokens for secure user authentication and authorization.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
+# Code Snippet
+
+![{2B94B957-3998-4558-8C12-963C0A972A8F}](https://github.com/user-attachments/assets/d28b06dc-f758-46cd-8fe9-2fd97535ce7e)
+
+![{B04D5710-6C07-4931-971C-87D281DD1D91}](https://github.com/user-attachments/assets/b9b56169-da3f-4a90-bc20-f73c3b0f5243)
+
+![{8AACE525-58EE-4693-B84D-0EEC2619E799}](https://github.com/user-attachments/assets/b1595f25-9cd1-4c21-a1bc-6269750f2c98)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 # Installation and Setup
 
 step1. Clone the repository: git clone <repository-url>
